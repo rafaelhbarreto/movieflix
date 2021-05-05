@@ -1,5 +1,7 @@
+import { Header } from '../../components/Header';
+
 export default function Movies() {
   return (
-    <h1>Movies - HEHE</h1>
+    <Header />
   )
 }
